@@ -1,6 +1,6 @@
 # chrome_password_extractor
 
-**Disclaimer: Please note that while I am the one who wrote this script, I am not in any way responsible for any individual who has used for any unethical means.**
+**Disclaimer: Please note that while I am the one who wrote this script, I am not in any way responsible for any individual who uses this for any unethical stuff.**
 
 The chrome_password_extractor is a tool I've designed to grab saved passwords from an individual's google chrome browser.
 
